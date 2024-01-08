@@ -3,6 +3,8 @@
 
 A proficient smart contract security researcher dedicated to enhancing the security of web3. Ranked 54th overall on Sherlock. With a specific focus on Solidity, I aim to identify and resolve vulnerabilities, contributing to a safer blockchain ecosystem. Adept in collaborative environments and competitive settings as evidenced by achievements in various audit competitions.
 
+I have audited Lending, Governance mechanisms, Perpetuals, AMMs, Liquidity Management Vaults and familiar with Uniswap v3 integrations.
+
 
 ## Professional Experience
 Over the last 1 year, participated in contests on Sherlock, securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, perpetuals, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and auditing skills.
