@@ -7,19 +7,21 @@ I have audited Lending, Governance mechanisms, Perpetuals, AMMs, Liquidity Manag
 
 
 ## Professional Experience
-Over the last 1 year, participated in contests on Sherlock, securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, perpetuals, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and auditing skills.
+Over the last 1 year, participated in contests on Sherlock, securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, perpetuals, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and auditing skills. I have pretty good knowledge of the Defi landscape.
 
 
 ## Technical Skills
 - Languages: Solidity
 - Tools & Platforms: Foundry, EVM
-- Specialized Skills: Breaking down EVM bytecode
+- Specialized Skills: Breaking down EVM bytecode, can read assembly code(Yul)
 
 
 
 
 
 # 🏅 Achievements in Audit Contests
+
+Here is my Sherlock profile : https://audits.sherlock.xyz/watson/Chinmay
 
 Major Highlights :
 1. Placed 2nd in Ajna Finance on sherlock - https://audits.sherlock.xyz/contests/75/leaderboard
