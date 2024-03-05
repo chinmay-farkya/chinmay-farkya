@@ -9,6 +9,8 @@ I have audited Lending, Governance mechanisms, Perpetuals, AMMs, Liquidity Manag
 ## Professional Experience
 Over the last 1 year, participated in contests on Sherlock, C4 and Cantina securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, perpetuals, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and auditing skills. I have pretty good knowledge of the Defi landscape.
 
+Recently, I got accepted into Block 6 of yacademy DAO auditing fellowship. 
+
 
 ## Technical Skills
 - Languages: Solidity
@@ -27,7 +29,8 @@ Here is my Code4rena profile : https://code4rena.com/@Chinmay
 Major Highlights :
 1. Placed 2nd in Ajna Finance on sherlock - https://audits.sherlock.xyz/contests/75/leaderboard
 2. Placed 5th in GMX update on sherlock - https://audits.sherlock.xyz/contests/74/leaderboard
-3. Found 3 Highs out of 4 and 2 Medium findings in Ethereum Credit Guild contest on C4 : https://code4rena.com/@Chinmay
+3. Placed 3rd in 100x finance on sherlock - https://audits.sherlock.xyz/contests/153/leaderboard
+4. Found 3 Highs out of 4 and 2 Medium findings in Ethereum Credit Guild contest on C4 : https://code4rena.com/@Chinmay
 
 
 
