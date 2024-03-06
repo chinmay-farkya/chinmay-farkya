@@ -56,7 +56,7 @@ All results : https://github.com/chinmay-farkya/Audits/tree/main?tab=readme-ov-f
 
 Participated in multiple contests and ranked in the top 5, showcasing a strong understanding and skill set in smart contract security. 
 
-Publishing educational tweets (https://twitter.com/dev_chinmayf) and github repositories (like this one : https://github.com/chinmay-farkya/solidity-notes)
+Publishing educational tweets (https://twitter.com/dev_chinmayf) and github repositories (like this one : https://github.com/chinmay-farkya/solidity-notes   and this one : https://github.com/chinmay-farkya/EVM-notes)
 
 ## Interests
 - Web3 Security and Defi
