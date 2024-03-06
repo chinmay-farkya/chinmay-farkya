@@ -29,8 +29,8 @@ Here is my Code4rena profile : https://code4rena.com/@Chinmay
 
 Major Highlights :
 1. Placed 2nd in Ajna Finance on sherlock - https://audits.sherlock.xyz/contests/75/leaderboard
-2. Placed 5th in GMX update on sherlock - https://audits.sherlock.xyz/contests/74/leaderboard
-3. Placed 3rd in 100x finance on sherlock - https://audits.sherlock.xyz/contests/153/leaderboard
+2. Placed 3rd in 100x finance on sherlock - https://audits.sherlock.xyz/contests/153/leaderboard
+3. Placed 5th in GMX update on sherlock - https://audits.sherlock.xyz/contests/74/leaderboard
 4. Found 3 Highs out of 4 and 2 Medium findings in Ethereum Credit Guild contest on C4 : https://code4rena.com/@Chinmay
 
 
