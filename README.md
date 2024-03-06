@@ -24,6 +24,7 @@ I have done a few solo audits as well. Recently, I got accepted into Block 6 of 
 # 🏅 Achievements in Audit Contests
 
 Here is my Sherlock profile : https://audits.sherlock.xyz/watson/Chinmay
+
 Here is my Code4rena profile : https://code4rena.com/@Chinmay
 
 Major Highlights :
