@@ -9,7 +9,7 @@ I have audited Lending, Governance mechanisms, Perpetuals, AMMs, Liquidity Manag
 ## Professional Experience
 Over the last 1 year, participated in contests on Sherlock, C4 and Cantina securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, perpetuals, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and auditing skills. I have pretty good knowledge of the Defi landscape.
 
-Recently, I got accepted into Block 6 of yacademy DAO auditing fellowship. 
+I have done a few solo audits as well. Recently, I got accepted into Block 6 of yacademy DAO auditing fellowship. 
 
 
 ## Technical Skills
@@ -55,11 +55,11 @@ All results : https://github.com/chinmay-farkya/Audits/tree/main?tab=readme-ov-f
 
 Participated in multiple contests and ranked in the top 5, showcasing a strong understanding and skill set in smart contract security. 
 
-Publishing educational tweets and github repositories (like this one : https://github.com/chinmay-farkya/solidity-notes)
+Publishing educational tweets (https://twitter.com/dev_chinmayf) and github repositories (like this one : https://github.com/chinmay-farkya/solidity-notes)
 
 ## Interests
-- Web3 Security
-- Formal Verification of smart contracts
+- Web3 Security and Defi
+- Fuzzing / Formal Verification of smart contracts
 - Alternate languages and ecosystems (Cairo, Vyper and Move)
 
 
