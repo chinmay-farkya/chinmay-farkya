@@ -44,7 +44,7 @@ Major Highlights :
 All results : https://github.com/chinmay-farkya/Audits/tree/main?tab=readme-ov-file#audit-contests
  
 
-## Private Audits
+## Solo Audits
 
 1. [Raisin Labs P2P Fundraising Protocol](https://github.com/chinmay-farkya/Audits/blob/main/solo/Raisin-p2p-fundraising.pdf)
 2. [Poodl Dividend Paying Token](https://github.com/chinmay-farkya/Audits/blob/main/solo/poodltech-dividend-paying-token.md)
