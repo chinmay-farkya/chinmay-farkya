@@ -1,5 +1,5 @@
 
-# Hello, I'm Chinmay - Smart Contract Security Researcher
+# Hello, I'm Chinmay - Associate Security Researcher at Spearbit
 
 A proficient smart contract security researcher dedicated to enhancing the security of web3. Ranked 54th overall on Sherlock. With a specific focus on Solidity, I aim to identify and resolve vulnerabilities, contributing to a safer blockchain ecosystem. Adept in collaborative environments and competitive settings as evidenced by achievements in various audit competitions.
 
