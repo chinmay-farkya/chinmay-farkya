@@ -3,13 +3,13 @@
 
 A proficient smart contract security researcher dedicated to enhancing the security of web3. Ranked 54th overall on Sherlock. With a specific focus on Solidity, I aim to identify and resolve vulnerabilities, contributing to a safer blockchain ecosystem. Adept in collaborative environments and competitive settings as evidenced by achievements in various audit competitions.
 
-I have audited Lending, Governance mechanisms, Perpetual DEXes, AMMs, Liquidity Management Vaults, Reward Gauges, veTokenomics implementations, Orderbook perp markets and I am familiar with Uniswap v3 integrations.
+I have audited Lending, Governance mechanisms, Perpetual DEXes, AMMs, Liquidity Management Vaults, Reward Gauges, veTokenomics implementations, DAO management protocol, Orderbook perp markets and I am familiar with Uniswap v3 integrations.
 
 
 ## Professional Experience
 Over the last 1 year, participated in contests on Sherlock, C4 and Cantina securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, perpetuals, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and auditing skills. I have pretty good knowledge of the Defi landscape.
 
-I have done a few solo audits as well. In march 2024, I got accepted into Block 6 of yacademy DAO auditing fellowship (currently running). 
+I have done a few solo audits as well. In march 2024, I got accepted into Block 6 of yacademy DAO auditing fellowship. 
 
 I am well versed with the internal working of EVM and bytecode formation. 
 
