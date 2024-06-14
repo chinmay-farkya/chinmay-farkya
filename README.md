@@ -33,7 +33,7 @@ Major Highlights :
 2. Placed 3rd in 100x finance on sherlock - https://audits.sherlock.xyz/contests/153/leaderboard
 3. Placed 5th in GMX update on sherlock - https://audits.sherlock.xyz/contests/74/leaderboard
 4. Found 3 Highs out of 4 and 2 Medium findings in Ethereum Credit Guild contest on C4 : https://code4rena.com/@Chinmay
-5. Found 2 Highs and 6 Medium findings in zerolend contest on Cantina : https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/README.md
+5. Found 2 Highs and 5 Medium findings in zerolend contest on Cantina : https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/README.md
 
 
 
@@ -47,11 +47,14 @@ Major Highlights :
 All results : [Audits](https://github.com/chinmay-farkya/Audits/tree/main?tab=readme-ov-file#audit-contests)
  
 
-## Solo Audits
+## Private Audits
 
 1. [Raisin Labs P2P Fundraising Protocol](https://github.com/chinmay-farkya/Audits/blob/main/solo/Raisin-p2p-fundraising.pdf)
 2. [Poodl Dividend Paying Token](https://github.com/chinmay-farkya/Audits/blob/main/solo/poodltech-dividend-paying-token.md)
 3. [ProphetRouter](https://github.com/chinmay-farkya/Audits/blob/main/solo/ProphetRouter.md)
+4. [ProphetStaking](https://github.com/chinmay-farkya/Audits/blob/main/solo/prophetstaking.md)
+
+
 
 
 ## Personal Projects and Contributions
