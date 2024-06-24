@@ -49,10 +49,11 @@ All results : [Audits](https://github.com/chinmay-farkya/Audits/tree/main?tab=re
 
 ## Private Audits
 
-1. [Raisin Labs P2P Fundraising Protocol](https://github.com/chinmay-farkya/Audits/blob/main/solo/Raisin-p2p-fundraising.pdf)
-2. [Poodl Dividend Paying Token](https://github.com/chinmay-farkya/Audits/blob/main/solo/poodltech-dividend-paying-token.md)
-3. [ProphetRouter](https://github.com/chinmay-farkya/Audits/blob/main/solo/ProphetRouter.md)
-4. [ProphetStaking](https://github.com/chinmay-farkya/Audits/blob/main/solo/prophetstaking.md)
+1. [Juicebox V4](https://github.com/chinmay-farkya/Audits/blob/main/solo/juicebox-eth-audit-report-v4.pdf)
+2. [Raisin Labs P2P Fundraising Protocol](https://github.com/chinmay-farkya/Audits/blob/main/solo/Raisin-p2p-fundraising.pdf)
+3. [Poodl Dividend Paying Token](https://github.com/chinmay-farkya/Audits/blob/main/solo/poodltech-dividend-paying-token.md)
+4. [ProphetRouter](https://github.com/chinmay-farkya/Audits/blob/main/solo/ProphetRouter.md)
+5. [ProphetStaking](https://github.com/chinmay-farkya/Audits/blob/main/solo/prophetstaking.md)
 
 
 
