@@ -7,7 +7,7 @@ I have audited Lending, Governance mechanisms, Perpetual DEXes, AMMs, Liquidity 
 
 
 ## Professional Experience
-Over the last 1 year, participated in contests on Sherlock, C4 and Cantina securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, perpetuals, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and auditing skills. I have pretty good knowledge of the Defi landscape.
+Over the last 1.5 year, participated in contests on Sherlock, C4 and Cantina securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, perpetuals, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and auditing skills. I have pretty good knowledge of the Defi landscape.
 
 I have done a few solo audits as well. In march 2024, I got accepted into Block 6 of yacademy DAO auditing fellowship. 
 
@@ -32,8 +32,9 @@ Major Highlights :
 1. Placed 2nd in Ajna Finance on sherlock - https://audits.sherlock.xyz/contests/75/leaderboard
 2. Placed 3rd in 100x finance on sherlock - https://audits.sherlock.xyz/contests/153/leaderboard
 3. Placed 5th in GMX update on sherlock - https://audits.sherlock.xyz/contests/74/leaderboard
-4. Found 3 Highs out of 4 and 2 Medium findings in Ethereum Credit Guild contest on C4 : https://code4rena.com/@Chinmay
-5. Found 2 Highs and 5 Medium findings in zerolend contest on Cantina : https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407
+4. Placed 5th in MagicSea Staking on sherlock - https://audits.sherlock.xyz/contests/437/leaderboard
+5. Found 3 Highs out of 4 and 2 Medium findings in Ethereum Credit Guild contest on C4 : https://code4rena.com/@Chinmay
+6. Found 2 Highs and 5 Medium findings in zerolend contest on Cantina : https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407
 
 
 
