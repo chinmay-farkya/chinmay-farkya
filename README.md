@@ -36,7 +36,8 @@ Major Highlights :
 5. Found 3 Highs out of 4 and 2 Medium findings in Ethereum Credit Guild contest on C4 : https://code4rena.com/@Chinmay
 6. Found 2 Highs and 5 Medium findings in zerolend contest on Cantina : https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407
 
-
+## Audits at Spearbit
+Full portfolio avilable here => https://cantina.xyz/u/chinmay
 
 
 ## 📚 Featured Audit Findings (Solo)
