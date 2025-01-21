@@ -24,7 +24,7 @@ I am well versed with the internal working of EVM and bytecode formation.
 
 # 🏅 Achievements in Audit Contests
 
-Here is my Sherlock profile : https://audits.sherlock.xyz/watson/Chinmay
+Here is my Sherlock profile : https://audits.sherlock.xyz/watson/ChinmayF
 
 Here is my Code4rena profile : https://code4rena.com/@Chinmay
 
