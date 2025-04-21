@@ -1,17 +1,52 @@
-
 # Hello, I'm Chinmay - Associate Security Researcher at Spearbit
 
-A proficient smart contract security researcher dedicated to enhancing the security of web3. Ranked 54th overall on Sherlock. With a specific focus on Solidity, I aim to identify and resolve vulnerabilities, contributing to a safer blockchain ecosystem. Adept in collaborative environments and competitive settings as evidenced by achievements in various audit competitions.
+I have audited Lending, Governance mechanisms, Perpetual DEXes, AMMs, Liquidity Management Vaults, Token launchpads, Reward Gauges, veTokenomics implementations, DAO management protocol, Orderbook perp markets, 4337 Smart Wallets and uniswap V3 integrations
 
-I have audited Lending, Governance mechanisms, Perpetual DEXes, AMMs, Liquidity Management Vaults, Reward Gauges, veTokenomics implementations, DAO management protocol, Orderbook perp markets and I am familiar with Uniswap v3 integrations.
+# Portfolio
+
+[My Auditing Portfolio](https://github.com/chinmay-farkya/Audits) <br/>
 
 
-## Professional Experience
-Over the last 1.5 year, participated in contests on Sherlock, C4 and Cantina securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, perpetuals, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and auditing skills. I have pretty good knowledge of the Defi landscape.
+# 🏅 Achievements in Audit Contests
 
-I have done a few solo audits as well. In march 2024, I got accepted into Block 6 of yacademy DAO auditing fellowship. 
+My most notable competitive audit results:
 
-I am well versed with the internal working of EVM and bytecode formation. 
+- [Ajna Finance : 2nd place](https://audits.sherlock.xyz/contests/75/leaderboard)
+- [100x exchange : 3rd place](https://audits.sherlock.xyz/contests/153/leaderboard)
+- [GMX V2 : 5th place](https://audits.sherlock.xyz/contests/74/leaderboard)
+- [MagicSea Staking : 5th place](https://audits.sherlock.xyz/contests/437/leaderboard)
+- [Zerolend Protocol : 9th place](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407/leaderboard)
+
+
+# Bug Bounties
+
+- [Won hexens' Spot-the-bug-challenge](https://x.com/hexensio/status/1651608267594899456)
+- [Won ether.fi 's CTF](https://x.com/ether_fi/status/1822410320553685351)
+
+## Miscallaneous achievements :
+
+- [Recruited as Lead Judge on Perennial contest](https://audits.sherlock.xyz/contests/764?filter=questions) [and on Usual contest](https://audits.sherlock.xyz/contests/575?filter=questions)
+- [Got accepted to Block 6 of the Yacademy fellowship](https://x.com/dev_chinmayf/status/1763212450143371430)
+- [Scored 62.5 % on Rareskills Solidity test back in 2023](https://x.com/dev_chinmayf/status/1651617701670912001)
+
+
+## Public Content
+
+- [Auditor's Digest : Risks of EIP712](https://medium.com/@chinmayf/auditors-digest-the-risks-of-eip712-5a0fc57e3837)
+- [Auditor's Digest : Incorrect TWAP implementations](https://medium.com/@chinmayf/auditors-digest-incorrect-twap-implementations-05285636f21e)
+- [Risks of using TWAP](https://medium.com/@chinmayf/so-you-want-to-use-twap-1f992f9d3819)
+- [Solidity Notes : tweet went viral](https://x.com/dev_chinmayf/status/1650904150593478660) and [repository has 580 stars](https://github.com/chinmay-farkya/solidity-notes)
+- [EVM notes repo with 110 stars](https://github.com/chinmay-farkya/EVM-notes)
+- Other collection of resources (report and poc templates, solo auditors' audit reports)
+
+
+Some of my other contributions :
+
+- [Helped maintain a bug bounty writeups list](https://x.com/sayan_011/status/1666192348441882624)
+- [My finding got featured on Spearbit's official twitter](https://x.com/SpearbitDAO/status/1863583957604044858)
+- [Published Auditing roadmap for beginners](https://x.com/dev_chinmayf/status/1705226270051541101)
+
+
 
 
 ## Technical Skills
@@ -20,40 +55,19 @@ I am well versed with the internal working of EVM and bytecode formation.
 - Specialized Skills: Breaking down EVM bytecode, can read assembly code(Yul), 
 
 
-
-
-# 🏅 Achievements in Audit Contests
-
-Here is my Sherlock profile : https://audits.sherlock.xyz/watson/ChinmayF
-
-Here is my Code4rena profile : https://code4rena.com/@Chinmay
-
-Major Highlights :
-1. Placed 2nd in Ajna Finance on sherlock - https://audits.sherlock.xyz/contests/75/leaderboard
-2. Placed 3rd in 100x finance on sherlock - https://audits.sherlock.xyz/contests/153/leaderboard
-3. Placed 5th in GMX update on sherlock - https://audits.sherlock.xyz/contests/74/leaderboard
-4. Placed 5th in MagicSea Staking on sherlock - https://audits.sherlock.xyz/contests/437/leaderboard
-5. Found 3 Highs out of 4 and 2 Medium findings in Ethereum Credit Guild contest on C4 : https://code4rena.com/@Chinmay
-6. Found 2 Highs and 5 Medium findings in zerolend contest on Cantina : https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407
-
-
-
 ## Audits at Spearbit
+Have done 10+ private audits as an ASR at Spearbit. 
 Full portfolio available here => https://cantina.xyz/u/chinmay
 
 
-
-
-## 📚 Featured Audit Findings (Solo)
+## 📚 Featured Audit Contest Findings (Solo)
 
 - [Finding 1](https://audits.sherlock.xyz/contests/74/report#:~:text=properly.%0Apartially%20reviewed-,Issue%20M%2D6,-%3A%20An%20Oracle%20Signer)
 - [Finding 2](https://audits.sherlock.xyz/contests/75/report#:~:text=Looks%20ok-,Issue%20M%2D5,-%3A%20Wrong%20Inflator%20used)
 - [Finding 3](https://audits.sherlock.xyz/contests/75/report#:~:text=s%20htp%20calculation.-,Issue%20M%2D6,-%3A%20KickerActions%20uses%20wrong)
 
-All results : [Audits](https://github.com/chinmay-farkya/Audits/tree/main?tab=readme-ov-file#audit-contests)
- 
 
-## Private Audits
+## Other Private Audits
 
 1. [Juicebox V4](https://github.com/chinmay-farkya/Audits/blob/main/solo/juicebox-eth-audit-report-v4.pdf)
 2. [Raisin Labs P2P Fundraising Protocol](https://github.com/chinmay-farkya/Audits/blob/main/solo/Raisin-p2p-fundraising.pdf)
