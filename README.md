@@ -2,10 +2,9 @@
 
 I have audited Lending, Governance mechanisms, Perpetual DEXes, AMMs, Liquidity Management Vaults, Token launchpads, Reward Gauges, veTokenomics implementations, DAO management protocol, Orderbook perp markets, 4337 Smart Wallets and uniswap V3 integrations
 
-# Portfolio
-
-[My Auditing Portfolio](https://github.com/chinmay-farkya/Audits) <br/>
-
+# Audits at Spearbit
+Have done 10+ private audits as an ASR at Spearbit. 
+Full portfolio available here => https://cantina.xyz/u/chinmay
 
 # 🏅 Achievements in Audit Contests
 
@@ -23,14 +22,23 @@ My most notable competitive audit results:
 - [Won hexens' Spot-the-bug-challenge](https://x.com/hexensio/status/1651608267594899456)
 - [Won ether.fi 's CTF](https://x.com/ether_fi/status/1822410320553685351)
 
-## Miscallaneous achievements :
+# Miscallaneous achievements :
 
 - [Recruited as Lead Judge on Perennial contest](https://audits.sherlock.xyz/contests/764?filter=questions) [and on Usual contest](https://audits.sherlock.xyz/contests/575?filter=questions)
 - [Got accepted to Block 6 of the Yacademy fellowship](https://x.com/dev_chinmayf/status/1763212450143371430)
 - [Scored 62.5 % on Rareskills Solidity test back in 2023](https://x.com/dev_chinmayf/status/1651617701670912001)
 
 
-## Public Content
+# Other Private Audits
+
+1. [Juicebox V4](https://github.com/chinmay-farkya/Audits/blob/main/solo/juicebox-eth-audit-report-v4.pdf)
+2. [Raisin Labs P2P Fundraising Protocol](https://github.com/chinmay-farkya/Audits/blob/main/solo/Raisin-p2p-fundraising.pdf)
+3. [Poodl Dividend Paying Token](https://github.com/chinmay-farkya/Audits/blob/main/solo/poodltech-dividend-paying-token.md)
+4. [ProphetRouter](https://github.com/chinmay-farkya/Audits/blob/main/solo/ProphetRouter.md)
+5. [ProphetStaking](https://github.com/chinmay-farkya/Audits/blob/main/solo/prophetstaking.md)
+
+
+# Public Content
 
 - [Auditor's Digest : Risks of EIP712](https://medium.com/@chinmayf/auditors-digest-the-risks-of-eip712-5a0fc57e3837)
 - [Auditor's Digest : Incorrect TWAP implementations](https://medium.com/@chinmayf/auditors-digest-incorrect-twap-implementations-05285636f21e)
@@ -48,40 +56,22 @@ Some of my other contributions :
 
 
 
-
-## Technical Skills
+# Technical Skills
 - Languages: Solidity
 - Tools & Platforms: Foundry, EVM
 - Specialized Skills: Breaking down EVM bytecode, can read assembly code(Yul), 
 
 
-## Audits at Spearbit
-Have done 10+ private audits as an ASR at Spearbit. 
-Full portfolio available here => https://cantina.xyz/u/chinmay
-
-
-## 📚 Featured Audit Contest Findings (Solo)
+# 📚 Featured Audit Contest Findings (Solo)
 
 - [Finding 1](https://audits.sherlock.xyz/contests/74/report#:~:text=properly.%0Apartially%20reviewed-,Issue%20M%2D6,-%3A%20An%20Oracle%20Signer)
 - [Finding 2](https://audits.sherlock.xyz/contests/75/report#:~:text=Looks%20ok-,Issue%20M%2D5,-%3A%20Wrong%20Inflator%20used)
 - [Finding 3](https://audits.sherlock.xyz/contests/75/report#:~:text=s%20htp%20calculation.-,Issue%20M%2D6,-%3A%20KickerActions%20uses%20wrong)
 
 
-## Other Private Audits
-
-1. [Juicebox V4](https://github.com/chinmay-farkya/Audits/blob/main/solo/juicebox-eth-audit-report-v4.pdf)
-2. [Raisin Labs P2P Fundraising Protocol](https://github.com/chinmay-farkya/Audits/blob/main/solo/Raisin-p2p-fundraising.pdf)
-3. [Poodl Dividend Paying Token](https://github.com/chinmay-farkya/Audits/blob/main/solo/poodltech-dividend-paying-token.md)
-4. [ProphetRouter](https://github.com/chinmay-farkya/Audits/blob/main/solo/ProphetRouter.md)
-5. [ProphetStaking](https://github.com/chinmay-farkya/Audits/blob/main/solo/prophetstaking.md)
-
-
-
 
 ## Personal Projects and Contributions
-#### A personal blog where I put up tips for developers/ auditors engaged with certain Defi code components (like EIP712, TWAP etc.) : https://medium.com/@chinmayf
-
-Participated in multiple contests and ranked in the top 5, showcasing a strong understanding and skill set in smart contract security. 
+#### A personal blog where I put up tips for developers/ auditors engaged with Defi code (like EIP712, TWAP etc.) : https://medium.com/@chinmayf
 
 Publishing educational tweets (https://twitter.com/dev_chinmayf) and github repositories (like this one : https://github.com/chinmay-farkya/solidity-notes   and this one : https://github.com/chinmay-farkya/EVM-notes)
 
