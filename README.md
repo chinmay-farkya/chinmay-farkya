@@ -4,7 +4,7 @@ I have audited Lending, Governance mechanisms, Perpetual DEXes, AMMs, Liquidity 
 
 # Audits at Spearbit
 Have done 10+ private audits as an ASR at Spearbit. 
-Full portfolio available here => https://cantina.xyz/u/chinmay
+Full portfolio available here => [cantina.xyz/chinmay](https://cantina.xyz/u/chinmay/private-reviews)
 
 # 🏅 Achievements in Audit Contests
 
