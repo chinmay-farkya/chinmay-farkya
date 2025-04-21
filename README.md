@@ -11,6 +11,7 @@ Full portfolio available here => https://cantina.xyz/u/chinmay
 My most notable competitive audit results:
 
 - [Ajna Finance : 2nd place](https://audits.sherlock.xyz/contests/75/leaderboard)
+- [Nouns Auction streams : 2nd place](https://audits.sherlock.xyz/contests/688/leaderboard)
 - [100x exchange : 3rd place](https://audits.sherlock.xyz/contests/153/leaderboard)
 - [GMX V2 : 5th place](https://audits.sherlock.xyz/contests/74/leaderboard)
 - [MagicSea Staking : 5th place](https://audits.sherlock.xyz/contests/437/leaderboard)
