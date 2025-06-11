@@ -10,12 +10,15 @@ Full portfolio available here => [cantina.xyz/chinmay](https://cantina.xyz/u/chi
 
 My most notable competitive audit results:
 
-- [Ajna Finance : 2nd place](https://audits.sherlock.xyz/contests/75/leaderboard)
-- [Nouns Auction streams : 2nd place](https://audits.sherlock.xyz/contests/688/leaderboard)
-- [100x exchange : 3rd place](https://audits.sherlock.xyz/contests/153/leaderboard)
-- [GMX V2 : 5th place](https://audits.sherlock.xyz/contests/74/leaderboard)
-- [MagicSea Staking : 5th place](https://audits.sherlock.xyz/contests/437/leaderboard)
-- [Zerolend Protocol : 9th place](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407/leaderboard)
+| Protocol              | Rank | Link                                                                                             |
+| --------------------- | ---- | ------------------------------------------------------------------------------------------------ |
+| Ajna Finance          | 🥈 2 | [Leaderboard](https://audits.sherlock.xyz/contests/75/leaderboard)                               |
+| Nouns Auction Streams | 🥈 2 | [Leaderboard](https://audits.sherlock.xyz/contests/688/leaderboard)                              |
+| 100x Exchange         | 🥉 3 | [Leaderboard](https://audits.sherlock.xyz/contests/153/leaderboard)                              |
+| GMX V2                | 5    | [Leaderboard](https://audits.sherlock.xyz/contests/74/leaderboard)                               |
+| MagicSea Staking      | 5    | [Leaderboard](https://audits.sherlock.xyz/contests/437/leaderboard)                              |
+| Zerolend Protocol     | 9    | [Leaderboard](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407/leaderboard) |
+
 
 
 # Bug Bounties
