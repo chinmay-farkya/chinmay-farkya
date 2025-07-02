@@ -34,6 +34,7 @@ My most notable competitive audit results:
 
 
 # Other Private Audits
+I also work on private audits with Zenith Security(code4rena). 
 
 1. [Juicebox V4](https://github.com/chinmay-farkya/Audits/blob/main/solo/juicebox-eth-audit-report-v4.pdf)
 2. [Raisin Labs P2P Fundraising Protocol](https://github.com/chinmay-farkya/Audits/blob/main/solo/Raisin-p2p-fundraising.pdf)
