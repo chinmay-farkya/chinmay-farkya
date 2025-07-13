@@ -19,7 +19,10 @@ My most notable competitive audit results:
 | MagicSea Staking      | 5    | [Leaderboard](https://audits.sherlock.xyz/contests/437/leaderboard)                              |
 | Zerolend Protocol     | 9    | [Leaderboard](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407/leaderboard) |
 
+# Audits at Zenith 
 
+1. Biconomy Composability : [Link](https://github.com/zenith-security/reports/blob/main/reports/Biconomy%20Composability%20-%20Zenith%20Audit%20Report.pdf)
+2. Biconomy Nexus : [Link](https://github.com/zenith-security/reports/blob/main/reports/Biconomy%20Nexus%20-%20Zenith%20Audit%20Report.pdf)
 
 # Bug Bounties
 
