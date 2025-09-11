@@ -24,6 +24,13 @@ My most notable competitive audit results:
 1. Biconomy Composability : [Link](https://github.com/zenith-security/reports/blob/main/reports/Biconomy%20Composability%20-%20Zenith%20Audit%20Report.pdf)
 2. Biconomy Nexus : [Link](https://github.com/zenith-security/reports/blob/main/reports/Biconomy%20Nexus%20-%20Zenith%20Audit%20Report.pdf)
 
+# Audits at Cyfrin
+
+1. Metamask Delegation Framework (ERC4337 Smart Wallet) : [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-01-cyfrin-metamask-TotalBalanceEnforcer-v2.0.pdf)
+2. World Liberty Foundation (RWA) : [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-wlf-v2.1.pdf)
+3. Linea Token Airdrop : [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-10-cyfrin-linea-tokens-v2.5.pdf)
+4. Myriad Prediction Market : [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-25-cyfrin-myriad-v2.0.pdf)
+
 # Bug Bounties
 
 - [Won hexens' Spot-the-bug-challenge](https://x.com/hexensio/status/1651608267594899456)
