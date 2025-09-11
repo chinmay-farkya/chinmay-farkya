@@ -1,6 +1,6 @@
 # Hello, I'm Chinmay - Associate Security Researcher at Spearbit
 
-I have audited Lending, Governance mechanisms, Perpetual DEXes, AMMs, Liquidity Management Vaults, Token launchpads, Reward Gauges, veTokenomics implementations, DAO management protocol, Orderbook perp markets, 4337 Smart Wallets and uniswap V3 integrations
+I have audited Lending, Governance mechanisms, Perpetual DEXes, Liquidity Management Vaults, Token launchpads, Reward Gauges, veTokenomics implementations, DAO management protocol, Orderbook perp markets, 4337 Smart Wallets and uniswap V3 integrations. I especially like to audit perpetuals, stablecoins and Lending markets. 
 
 # Audits at Spearbit
 Have done 10+ private audits as an ASR at Spearbit. 
@@ -17,6 +17,7 @@ My most notable competitive audit results:
 | 100x Exchange         | 🥉 3 | [Leaderboard](https://audits.sherlock.xyz/contests/153/leaderboard)                              |
 | GMX V2                | 5    | [Leaderboard](https://audits.sherlock.xyz/contests/74/leaderboard)                               |
 | MagicSea Staking      | 5    | [Leaderboard](https://audits.sherlock.xyz/contests/437/leaderboard)                              |
+| Jigsaw Finance        | 6    | [Leaderboard](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview/leaderboard)|
 | Zerolend Protocol     | 9    | [Leaderboard](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407/leaderboard) |
 
 # Audits at Zenith 
