@@ -112,7 +112,7 @@ Goals :
 
 You can connect with me at:
 
-- Twitter - [@dev_chinmayf](https://twitter.com/dev_chinmayf)
+- Twitter - [@chinmayf](https://x.com/chinmayf)
 - Discord - [chinmayf](https://discordapp.com/users/732959289139789875)
 - Email   - [chinmayf2000@gmail.com](mailto:chinmayf2000@gmail.com)
 - Telegram - chinmayf
