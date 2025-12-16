@@ -31,6 +31,7 @@ My most notable competitive audit results:
 2. World Liberty Foundation (RWA) : [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-wlf-v2.1.pdf)
 3. Linea Token Airdrop : [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-10-cyfrin-linea-tokens-v2.5.pdf)
 4. Myriad Prediction Market : [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-25-cyfrin-myriad-v2.0.pdf)
+5. Accountable Loans : [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-16-cyfrin-accountable-v2.0.pdf)
 
 # Bug Bounties
 
